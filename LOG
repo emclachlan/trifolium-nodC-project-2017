@@ -8,4 +8,10 @@ trifolium-nodC-project-2017 Folder Log
 > copied 'seq_nodC_145-240.fa' to data folder
 	 'seq_nodC_1-144.dmg'  to data folder
 	- files contain fasta files from BTC2016 strains
+> ran clustalo (HPCC) on seq_nodC_145-240 using code in bodega-strain-collection-2017/src/protocol-ClustalOHPCC
+> added resulting file 'BTC16_145-240_alignment.fa' to data/2017-10-17
+> trimmed the alignment using UGENE
+> copied the trimmed alignment to data/2017-10-17
+  "BTC16_145-240_alignedtrim.fa
+> ran the trimmed alignment through CD-HIT-EST to get clusters
 	
