@@ -1,0 +1,20 @@
+####################################
+# Project Title:	trifolium-nodC-project-2017 
+# Project Owner:	E. McLachlan
+# Date Conceived: 	2017-10-17
+# Date Work Began:	2017-10-17
+# Last Updated:		2017-10-17
+####################################
+
+The goal of this project is to write a manuscript using the nodC 
+sanger sequences from each bodega collection:
+2015: dried nodules
+2015: strains
+2016: strain collection
+2016: frozen nodules
+2017: strain collection
+
+By looking at nodC variation across years and species, we can detect
+links between SNPs which tell a story about the evolution of these
+closely related species. 
+
