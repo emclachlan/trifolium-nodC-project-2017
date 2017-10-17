@@ -14,4 +14,7 @@ trifolium-nodC-project-2017 Folder Log
 > copied the trimmed alignment to data/2017-10-17
   "BTC16_145-240_alignedtrim.fa
 > ran the trimmed alignment through CD-HIT-EST to get clusters
+> copied cluster results folder to data/2017-10-17
+  "BTC16-145-240_CD-HIT
+
 	
