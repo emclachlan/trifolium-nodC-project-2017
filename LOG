@@ -2,6 +2,12 @@ trifolium-nodC-project-2017 Folder Log
 
 
 ======================================
+2017-10-30
+> renamed strains 1-72
+> aligned strains 1-72 (AG_1-72_align.fa)
+> trimmed alignment (AG_1-72_aligntrim.fa)
+> CDHit on AG_1-72_aligntrim.fa (AG_1-72_CDhit.tar)
+
 2017-10-17
 > created folder
 > added readme & data folders
