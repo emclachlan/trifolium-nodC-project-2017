@@ -2,14 +2,19 @@ ltrifolium-nodC-project-2017 Folder Log
 
 ======================================
 
-2017-12-12
+2017-12-13
 > renaming everything from 2016 in the following format: AG1XXXTspp_AG3XXXT
 > Concatonating 1-245 into one big seqfile
 > removing any strains that didn't amplify
 > aligning large seqfile (clustalo on hpcc)
 > Trimming alignment in UGENE (uniform size, no dashes)
-> CD-HIT on trimmed alignment file
-> 
+> CD-HIT on trimmed alignment file 
+
+2017-12-12
+> writing code to easily grab headers and change the names
+> can be found in src (findingstuff.sh)
+	to run: $ python findingstuff.sh
+	*it's a python script, but when I wrote it I ended in bash. doesn't seem to make a difference though.
 
 2017-10-31
 > renamed strains 1-72
