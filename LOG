@@ -1,6 +1,16 @@
 ltrifolium-nodC-project-2017 Folder Log
 
 ======================================
+
+2017-12-12
+> renaming everything from 2016 in the following format: AG1XXXTspp_AG3XXXT
+> Concatonating 1-245 into one big seqfile
+> removing any strains that didn't amplify
+> aligning large seqfile (clustalo on hpcc)
+> Trimming alignment in UGENE (uniform size, no dashes)
+> CD-HIT on trimmed alignment file
+> 
+
 2017-10-31
 > renamed strains 1-72
 > aligned strains 1-72 (AG_1-72_align.fa)
