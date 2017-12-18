@@ -2,6 +2,14 @@ ltrifolium-nodC-project-2017 Folder Log
 
 ======================================
 
+2017-12-18
+> added tar files and opened tar folders to data
+	data/2017-12-18/tarfiles/
+	data/2017-12-18/opened-tar-folders
+> uploaded tar files to google drive
+	nodC paper/data/rawdata/2016
+
+
 2017-12-13
 > renaming everything from 2016 in the following format: AG1XXXTspp_AG3XXXT
 > Concatonating 1-245 into one big seqfile
