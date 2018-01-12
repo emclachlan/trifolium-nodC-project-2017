@@ -2,21 +2,51 @@ ltrifolium-nodC-project-2017 Folder Log
 
 ======================================
 
+2018-01-12
+> made directory /data/2018-01-12
+> in directory, renamed all of the 2016 strains to uniform naming conventions
+> Script for rename can be found in src and in data folder: agrename5.sh
+> data/2018-01-12 now contains: raw .ab1 files and renamed .ab1 files
+> moved renamed strains to hpcc (MSU) to run through phred	
+	$scp -r "foldername" yourname@hpcc.msu.edu:/mnt/home/yourname/
+	$module load phred
+	$PHRED_PARAMETER_FILE=phredpar.dat
+	$phred -id file -trim_alt "" -trim_cutoff 0.01 -s -q -st fasta -trim_out
+	$cat *.seq > nameoffile.fa
+	$scp yourname@hpcc.msu.edu:/mnt/home/yourname/file.fa ./
+> made directory /results/2018-01-12
+  -contains ag-seqfile.fa: the concatonated sequence file of the renamed 2016 strains
+  -made a copy of ag-seqfile.fa: ag-seqfile-copy.fa
+  -made document called "poorqualitystrains" where I put all of the strains I removed from ag-seqfile-copy.fa
+  -uploaded ag-seqfile-copy.fa (with poor quality strains removed) to hpcc
+	$scp ag-seqfile-copy.fa mclach10@hpcc.msu.edu:mnt/home/mclach10/TrifoliumDimensions/SandernodC/2018-01-12/phredfiles
+> in hpcc, ran clustalo
+	$module load clustalO/1.1.0
+	$clustalo -i ag-seqfile-copy.fa -o ag-clustalo.fa -v
+> moved ag-clustalo.fa back to home computer, results folder
+> made ag-clustalo-copy.fa
+> ran ag-clustalo-copy.fa through UGENE to trim the alignment files. exported file ag-align.fa
+> copied ag-align.fa --> ag-align-copy.fa, ran through Cd-Hit (identity 1.0)
+> moved tar file to /data/2018-01-12/ag-cdhit.result.tar
+> moved opened tar folder to results/2018-01-12/ag-cdhit.result
+
+
+2018-01-11
+> continued collecting metadata
+> matching names to PCR positions to well.id's
+> made directory /data/2018-01-11 to house just the nodC files 
+from 2016, for the purposes of renaming them. 
+
+
+2018-01-10
+> Collecting 2016 metadata to rename strains 
+
 2017-12-18
 > added tar files and opened tar folders to data
 	data/2017-12-18/tarfiles/
 	data/2017-12-18/opened-tar-folders
 > uploaded tar files to google drive
-	nodC paper/data/rawdata/2016
-
-
-2017-12-13
-> renaming everything from 2016 in the following format: AG1XXXTspp_AG3XXXT
-> Concatonating 1-245 into one big seqfile
-> removing any strains that didn't amplify
-> aligning large seqfile (clustalo on hpcc)
-> Trimming alignment in UGENE (uniform size, no dashes)
-> CD-HIT on trimmed alignment file 
+	nodC paper/data/rawdata/2018
 
 2017-12-12
 > writing code to easily grab headers and change the names
