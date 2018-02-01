@@ -1,0 +1,840 @@
+>Cluster 0
+0	527nt, >2017-07-13_A01_barb_1E2-1_NodC... at +/100.00%
+1	557nt, >2017-07-13_A03_barb_1E2-3_NodC... at +/100.00%
+2	363nt, >2017-07-13_A07_bif_21B2-1_NodC... at +/100.00%
+3	559nt, >2017-07-13_A09_bif_21B2-3_NodC... at +/100.00%
+4	560nt, >2017-07-13_B01_barb_1E5-1_NodC... at +/100.00%
+5	384nt, >2017-07-13_D07_bif_24E5-1_NodC... at +/100.00%
+6	425nt, >2017-07-13_D10_bif_24E5-4_NodC... at +/100.00%
+7	574nt, >2017-07-13_E01_barb_17B2-1_NodC... at +/100.00%
+8	576nt, >2017-07-13_E04_barb_17B2-4_NodC... at +/100.00%
+9	557nt, >2017-07-13_E07_bif_37E5-1_NodC... at +/100.00%
+10	354nt, >2017-07-13_E10_bif_37E5-4_NodC... at +/100.00%
+11	337nt, >2017-07-13_F03_barb_18E2-3_NodC... at +/100.00%
+12	557nt, >2017-07-13_G09_bif_35E5-3_NodC... at +/100.00%
+13	576nt, >2017-07-13_H09_bif_40E2-3_NodC... at +/100.00%
+14	486nt, >2017-07-17_A02_mac_41B5-2_NodC... at +/100.00%
+15	580nt, >2017-07-17_C11_mdn_63B5-5_NodC... at +/100.00%
+16	575nt, >2017-07-17_D06_mac_44B5-6_NodC... at +/100.00%
+17	376nt, >2017-07-17_G07_mdn_79E5-1_NodC... at +/100.00%
+18	575nt, >2017-07-17_G09_mdn_79E5-3_NodC... at +/100.00%
+19	545nt, >2017-07-17_G12_mdn_79E5-6_NodC... at +/100.00%
+20	580nt, >2017-07-17_H02_mac_60E2-2_NodC... at +/100.00%
+21	574nt, >144_AG9006Tbar_AG3032T.ab1... at +/100.00%
+22	564nt, >144_AG9006Tbar_AG3033T.ab1... at +/100.00%
+23	576nt, >144_AG9007Tfuc_AG3041T.ab1... at +/100.00%
+24	575nt, >144_AG9013Tmdn_AG3075T.ab1... at +/100.00%
+25	555nt, >144_AG9017Tmac_AG3093T.ab1... at +/100.00%
+26	575nt, >144_AG9025Tmac_AG3136T.ab1... at +/100.00%
+27	579nt, >144_AG9031Tbar_AG3165T.ab1... at +/100.00%
+28	579nt, >144_AG9032Tbif_AG3167T.ab1... at +/100.00%
+29	579nt, >144_AG9051Tfuc_AG3281T.ab1... at +/100.00%
+30	571nt, >240_AG9004Tbar_AG3020T.ab1... at +/100.00%
+31	578nt, >240_AG9006Tbar_AG3035T.ab1... at +/100.00%
+32	574nt, >240_AG9006Tbar_AG3036T.ab1... at +/100.00%
+33	443nt, >240_AG9007Tfuc_AG3040T.ab1... at +/100.00%
+34	575nt, >240_AG9007Tfuc_AG3042T.ab1... at +/100.00%
+35	483nt, >240_AG9027Tbar_AG3143T.ab1... at +/100.00%
+36	577nt, >240_AG9027Tbar_AG3145T.ab1... at +/100.00%
+37	575nt, >240_AG9030Tmac_AG3160T.ab1... at +/100.00%
+38	574nt, >240_AG9034Tmdn_AG3187T.ab1... at +/100.00%
+39	575nt, >240_AG9036Tbif_AG3193T.ab1... at +/100.00%
+40	574nt, >240_AG9036Tbif_AG3194T.ab1... at +/100.00%
+41	578nt, >240_AG9036Tbif_AG3197T.ab1... at +/100.00%
+42	577nt, >240_AG9039Tmac_AG3217T.ab1... at +/100.00%
+43	575nt, >240_AG9040Tmdn_AG3222T.ab1... at +/100.00%
+44	571nt, >240_AG9043Tmac_AG3237T.ab1... at +/100.00%
+45	577nt, >240_AG9044Tbar_AG3241T.ab1... at +/100.00%
+46	575nt, >72_AG9006Tbar_AG3034T.ab1... at +/100.00%
+47	570nt, >72_AG9007Tfuc_AG3037T.ab1... at +/100.00%
+48	576nt, >72_AG9011Tmac_AG3061T.ab1... at +/100.00%
+49	578nt, >72_AG9025Tmac_AG3135T.ab1... at +/100.00%
+50	577nt, >72_AG9048Tbif_AG3261T.ab1... at +/100.00%
+51	574nt, >72_AG9050Tfuc_AG3276T.ab1... at +/100.00%
+52	575nt, >72_AG9050Tfuc_AG3278T.ab1... at +/100.00%
+53	571nt, >72_AG9051Tfuc_AG3279T.ab1... at +/100.00%
+54	575nt, >72_AG9051Tfuc_AG3282T.ab1... at +/100.00%
+55	576nt, >72_AG9063Tgra_AG3344T.ab1... at +/100.00%
+56	582nt, >BTC17_nodC_1_A07_will_will69_AK3011T... at +/100.00%
+57	481nt, >BTC17_nodC_1_A08_will_will69_AK3012T... at +/100.00%
+58	582nt, >BTC17_nodC_1_A09_will_will69_AK3014T... at +/100.00%
+59	578nt, >BTC17_nodC_1_B08_bif_bif158_AK3027T... at +/100.00%
+60	573nt, >BTC17_nodC_1_C02_bar_barbA_AK3035T... at +/100.00%
+61	571nt, >BTC17_nodC_1_C04_bar_barbA_AK3037T... at +/100.00%
+62	580nt, >BTC17_nodC_1_C06_bar_barbA_AK3039T... at +/100.00%
+63	573nt, >BTC17_nodC_1_D05_bif_BifA_AK3053T... at +/100.00%
+64	579nt, >BTC17_nodC_1_D09_bif_bifA_AK3057T... at +/100.00%
+65	573nt, >BTC17_nodC_1_E05_bar_354_AK3073T... at +/100.00%
+66	580nt, >BTC17_nodC_1_E07_bar_354_AK3075T... at +/100.00%
+67	575nt, >BTC17_nodC_1_E09_bar_354_AK3077T... at +/100.00%
+68	581nt, >BTC17_nodC_1_E10_bar_354_AK3078T... at +/100.00%
+69	419nt, >BTC17_nodC_1_E12_bif_163_AK3080T... at +/100.00%
+70	578nt, >BTC17_nodC_1_H04_mac_129_AK3118T... at +/100.00%
+71	583nt, >BTC17_nodC_2_A02_fuc_364_AK3129T... at +/100.00%
+72	583nt, >BTC17_nodC_2_A03_fuc_364_AK3130T... at +/100.00%
+73	574nt, >BTC17_nodC_2_A05_fuc_364_AK3132T... at +/100.00%
+74	584nt, >BTC17_nodC_2_A09_mdn_349_AK3136T... at +/100.00%
+75	575nt, >BTC17_nodC_2_A10_mdn_349_AK3137T... at +/100.00%
+76	498nt, >BTC17_nodC_2_A12_mdn_349_AK3140T... at +/100.00%
+77	537nt, >BTC17_nodC_2_B02_mdn_349_AK3142T... at +/100.00%
+78	538nt, >BTC17_nodC_2_B03_mdn_349_AK3143T... at +/100.00%
+79	528nt, >BTC17_nodC_2_B12_bar_111_AK3154T... at +/100.00%
+80	586nt, >BTC17_nodC_2_C01_bar_111_AK3155T... at +/100.00%
+81	531nt, >BTC17_nodC_2_C02_bar_111_AK3158T... at +/100.00%
+82	581nt, >BTC17_nodC_2_C03_bar_111_AK3159T... at +/100.00%
+83	531nt, >BTC17_nodC_2_C05_mlm_363_AK3163T... at +/100.00%
+84	593nt, >BTC17_nodC_2_C06_mlm_363_AK3164T... at +/100.00%
+85	578nt, >BTC17_nodC_2_C07_mlm_363_AK3166T... at +/100.00%
+86	586nt, >BTC17_nodC_2_C08_gra_348_AK3167T... at +/100.00%
+87	571nt, >BTC17_nodC_2_D02_gra_348_AK3174T... at +/100.00%
+88	593nt, >BTC17_nodC_2_D04_gra_348_AK3177T... at +/100.00%
+89	588nt, >BTC17_nodC_2_D07_bar_380_AK3180T... at +/100.00%
+90	583nt, >BTC17_nodC_2_D08_bar_380_AK3182T... at +/100.00%
+91	597nt, >BTC17_nodC_2_D09_bar_380_AK3183T... at +/100.00%
+92	596nt, >BTC17_nodC_2_D11_bar_380_AK3185T... at +/100.00%
+93	582nt, >BTC17_nodC_2_E01_bar_380_AK3187T... at +/100.00%
+94	583nt, >BTC17_nodC_2_E03_mac_377_AK3190T... at +/100.00%
+95	594nt, >BTC17_nodC_2_E10_fuc_319_AK3204T... at +/100.00%
+96	538nt, >BTC17_nodC_2_F04_fuc_191_AK3219T... at +/100.00%
+97	582nt, >BTC17_nodC_2_F12_fuc_174_AK3233T... at +/100.00%
+98	429nt, >BTC17_nodC_2_G01_fuc_174_AK3234T... at +/100.00%
+99	578nt, >BTC17_nodC_2_G02_fuc_174_AK3235T... at +/100.00%
+100	530nt, >BTC17_nodC_2_G03_fuc_174_AK3236T... at +/100.00%
+101	594nt, >BTC17_nodC_2_G04_fuc_174_AK3237T... at +/100.00%
+102	595nt, >BTC17_nodC_2_G05_fuc_174_AK3238T... at +/100.00%
+103	587nt, >BTC17_nodC_2_G06_fuc_174_AK3239T... at +/100.00%
+104	583nt, >BTC17_nodC_2_G07_fuc_174_AK3240T... at +/100.00%
+105	583nt, >BTC17_nodC_2_G08_fuc_174_AK3241T... at +/100.00%
+106	582nt, >BTC17_nodC_2_G09_fuc_174_AK3242T... at +/100.00%
+107	585nt, >BTC17_nodC_2_G10_bar_145_AK3243T... at +/100.00%
+108	593nt, >BTC17_nodC_2_G11_bar_145_AK3244T... at +/100.00%
+109	572nt, >BTC17_nodC_2_G12_bar_145_AK3245T... at +/100.00%
+110	457nt, >BTC17_nodC_2_H01_bar_145_AK3246T... at +/100.00%
+111	580nt, >BTC17_nodC_2_H03_bar_145_AK3248T... at +/100.00%
+112	581nt, >BTC17_nodC_2_H04_bar_145_AK3249T... at +/100.00%
+113	564nt, >BTC17_nodC_2_H06_bar_145_AK3251T... at +/100.00%
+114	579nt, >AM1075Tmdn_AM7024.ab1... at +/100.00%
+115	579nt, >AM1181Tfuc_AM7079.ab1... at +/100.00%
+116	576nt, >AM1181Tfuc_AM7084.ab1... at +/100.00%
+117	577nt, >AM1242Tbar_AM7086.ab1... at +/100.00%
+118	578nt, >AM1242Tbar_AM7087.ab1... at +/100.00%
+119	577nt, >AM1242Tbar_AM7088.ab1... at +/100.00%
+120	582nt, >AM1242Tbar_AM7089.ab1... at +/100.00%
+121	577nt, >AM1242Tbar_AM7090.ab1... at +/100.00%
+122	578nt, >AM1939Tmdn_AM7047.ab1... at +/100.00%
+123	544nt, >AM1097Tbar_AM7110.ab1... at +/100.00%
+124	580nt, >AM1229Tfuc_AM7132.ab1... at +/100.00%
+125	589nt, >AM1027Tmdn_AM7255.ab1... at +/100.00%
+126	587nt, >AM1027Tmdn_AM7256.ab1... at +/100.00%
+127	585nt, >AM1027Tmdn_AM7257.ab1... at +/100.00%
+128	600nt, >AM1057Tmac_AM7224.ab1... at +/100.00%
+129	603nt, >AM1085Tfuc_AM7283.ab1... at +/100.00%
+130	597nt, >AM1085Tfuc_AM7284.ab1... at +/100.00%
+131	596nt, >AM1085Tfuc_AM7285.ab1... at +/100.00%
+132	598nt, >AM1089Tmac_AM7266.ab1... at +/100.00%
+133	578nt, >AM1089Tmac_AM7267.ab1... at +/100.00%
+134	584nt, >AM11013Tfuc_AM7222.ab1... at +/100.00%
+135	583nt, >AM1101Tfuc_AM7247.ab1... at +/100.00%
+136	585nt, >AM1101Tfuc_AM7249.ab1... at +/100.00%
+137	596nt, >AM1101Tfuc_AM7250.ab1... at +/100.00%
+138	598nt, >AM1113Tbar_AM7274.ab1... at +/100.00%
+139	600nt, >AM1113Tbar_AM7275.ab1... at +/100.00%
+140	603nt, >AM1129Tbar_AM7253.ab1... at +/100.00%
+141	596nt, >AM1149Tfuc_AM7235.ab1... at +/100.00%
+142	587nt, >AM1149Tfuc_AM7236.ab1... at +/100.00%
+143	597nt, >AM1149Tfuc_AM7237.ab1... at +/100.00%
+144	605nt, >AM1149Tfuc_AM7238.ab1... at +/100.00%
+145	598nt, >AM1149Tfuc_AM7240.ab1... at +/100.00%
+146	590nt, >AM1169Tmac_AM7271.ab1... at +/100.00%
+147	448nt, >AM1169Tmac_AM7272.ab1... at +/100.00%
+148	566nt, >AM1213Tfuc_AM7199.ab1... at +/100.00%
+149	586nt, >AM1213Tfuc_AM7203.ab1... at +/100.00%
+150	586nt, >AM1281Tmac_AM7262.ab1... at +/100.00%
+151	600nt, >AM1885Tfuc_AM7232.ab1... at +/100.00%
+152	609nt, >AM1006Tfuc_AM7321.ab1... *
+153	605nt, >AM1006Tfuc_AM7323.ab1... at +/100.00%
+154	601nt, >AM1012Tmdn_AM7307.ab1... at +/100.00%
+155	600nt, >AM1012Tmdn_AM7311.ab1... at +/100.00%
+156	600nt, >AM1026Tmac_AM7313.ab1... at +/100.00%
+157	586nt, >AM1026Tmac_AM7316.ab1... at +/100.00%
+158	599nt, >AM1026Tmac_AM7317.ab1... at +/100.00%
+159	586nt, >AM1106Tmac_AM7296.ab1... at +/100.00%
+160	600nt, >AM1106Tmac_AM7299.ab1... at +/100.00%
+161	598nt, >AM1172Tmdn_AM7288.ab1... at +/100.00%
+162	586nt, >AM1172Tmdn_AM7289.ab1... at +/100.00%
+163	590nt, >AM1172Tmdn_AM7290.ab1... at +/100.00%
+164	599nt, >AM1172Tmdn_AM7291.ab1... at +/100.00%
+165	600nt, >AM1172Tmdn_AM7292.ab1... at +/100.00%
+166	600nt, >AM1198Tfuc_AM7336.ab1... at +/100.00%
+167	603nt, >AM1198Tfuc_AM7337.ab1... at +/100.00%
+168	599nt, >AM1198Tfuc_AM7338.ab1... at +/100.00%
+169	589nt, >AM1198Tfuc_AM7339.ab1... at +/100.00%
+170	586nt, >AM1198Tfuc_AM7340.ab1... at +/100.00%
+171	595nt, >AM1198Tfuc_AM7341.ab1... at +/100.00%
+172	596nt, >AM1422Tfuc_AM7354.ab1... at +/100.00%
+173	587nt, >AM1422Tfuc_AM7355.ab1... at +/100.00%
+174	587nt, >AM1422Tfuc_AM7356.ab1... at +/100.00%
+175	605nt, >AM1422Tfuc_AM7357.ab1... at +/100.00%
+176	587nt, >AM1886Tfuc_AM7300.ab1... at +/100.00%
+177	586nt, >AM1972Tmdn_AM7347.ab1... at +/100.00%
+178	541nt, >AM1250Tmac_AM7459... at +/100.00%
+179	407nt, >AM1005Tfuc_AM7104... at +/100.00%
+180	562nt, >AM1058Tmac_AM7403... at +/100.00%
+181	509nt, >AM1097Tbar_AM7111... at +/100.00%
+182	528nt, >AM1097Tbar_AM7112... at +/100.00%
+183	544nt, >AM1097Tbar_AM7114... at +/100.00%
+184	529nt, >AM1102Tfuc_AM7476... at +/100.00%
+185	473nt, >AM1105Tmac_AM7150... at +/100.00%
+186	548nt, >AM1107Tmdn_AM7139... at +/100.00%
+187	421nt, >AM1107Tmdn_AM7142... at +/100.00%
+188	539nt, >AM1117Tfuc_AM7188... at +/100.00%
+189	498nt, >AM1170Tmac_AM7442... at +/100.00%
+190	542nt, >AM1229Tfuc_AM7131... at +/100.00%
+191	493nt, >AM1396Tmdn_AM7454... at +/100.00%
+192	547nt, >AM1892Tmdn_AM7416... at +/100.00%
+193	546nt, >AM1892Tmdn_AM7418... at +/100.00%
+194	543nt, >AM1966Tfuc_AM7376... at +/100.00%
+>Cluster 1
+0	478nt, >2017-07-13_A12_bif_21B2-6_NodC... at +/100.00%
+1	513nt, >2017-07-13_B03_barb_1E5-3_NodC... at +/100.00%
+2	524nt, >2017-07-13_B04_barb_1E5-4_NodC... at +/100.00%
+3	448nt, >2017-07-13_B06_barb_1E5-6_NodC... at +/100.00%
+4	581nt, >2017-07-13_D01_barb_4E2-1_NodC... at +/100.00%
+5	499nt, >2017-07-13_D02_barb_4E2-2_NodC... at +/100.00%
+6	499nt, >2017-07-13_D03_barb_4E2-3_NodC... at +/100.00%
+7	557nt, >2017-07-13_D05_barb_4E2-5_NodC... at +/100.00%
+8	573nt, >2017-07-13_D06_barb_4E2-6_NodC... at +/100.00%
+9	558nt, >2017-07-13_D09_bif_24E5-3_NodC... at +/100.00%
+10	565nt, >2017-07-13_E06_barb_17B2-6_NodC... at +/100.00%
+11	428nt, >2017-07-13_F01_barb_18E2-1_NodC... at +/100.00%
+12	555nt, >2017-07-13_H05_barb_20B2-5_NodC... at +/100.00%
+13	557nt, >2017-07-13_H12_bif_40E2-6_NodC... at +/100.00%
+14	553nt, >2017-07-17_A01_mac_41B5-1_NodC... at +/100.00%
+15	556nt, >2017-07-17_A03_mac_41B5-3_NodC... at +/100.00%
+16	572nt, >2017-07-17_B01_mac_42E2-1_NodC... at +/100.00%
+17	546nt, >2017-07-17_B02_mac_42E2-2_NodC... at +/100.00%
+18	574nt, >2017-07-17_B03_mac_42E2-3_NodC... at +/100.00%
+19	575nt, >2017-07-17_F01_mac_58E5-1_NodC... at +/100.00%
+20	575nt, >2017-07-17_F02_mac_58E5-2_NodC... at +/100.00%
+21	558nt, >2017-07-17_F03_mac_58E5-3_NodC... at +/100.00%
+22	573nt, >2017-07-17_F05_mac_58E5-5_NodC... at +/100.00%
+23	577nt, >2017-07-17_G01_mac_59E2-1_NodC... at +/100.00%
+24	574nt, >144_AG9003Tfuc_AG3016T.ab1... at +/100.00%
+25	577nt, >144_AG9009Tbar_AG3051T.ab1... at +/100.00%
+26	575nt, >144_AG9013Tmdn_AG3074T.ab1... at +/100.00%
+27	572nt, >144_AG9038Tbar_AG3209T.ab1... at +/100.00%
+28	579nt, >144_AG9044Tbar_AG3240T.ab1... at +/100.00%
+29	576nt, >144_AG9044Tbar_AG3242T.ab1... at +/100.00%
+30	573nt, >144_AG9044Tbar_AG3243T.ab1... at +/100.00%
+31	574nt, >144_AG9050Tfuc_AG3273T.ab1... at +/100.00%
+32	575nt, >144_AG9050Tfuc_AG3274T.ab1... at +/100.00%
+33	574nt, >240_AG9007Tfuc_AG3038T.ab1... at +/100.00%
+34	575nt, >240_AG9011Tmac_AG3063T.ab1... at +/100.00%
+35	574nt, >240_AG9014Tbar_AG3077T.ab1... at +/100.00%
+36	577nt, >240_AG9027Tbar_AG3148T.ab1... at +/100.00%
+37	575nt, >240_AG9032Tbif_AG3168T.ab1... at +/100.00%
+38	571nt, >240_AG9032Tbif_AG3169T.ab1... at +/100.00%
+39	571nt, >240_AG9038Tbar_AG3212T.ab1... at +/100.00%
+40	569nt, >72_AG9038Tbar_AG3211T.ab1... at +/100.00%
+41	572nt, >72_AG9039Tmac_AG3218T.ab1... at +/100.00%
+42	578nt, >72_AG9044Tbar_AG3239T.ab1... at +/100.00%
+43	566nt, >BTC17_nodC_1_A01_mac_bif181_AK3001T... at +/100.00%
+44	584nt, >BTC17_nodC_1_A02_mac_bif181_AK3002T... at +/100.00%
+45	574nt, >BTC17_nodC_1_A04_mac_bif181_AK3004T... at +/100.00%
+46	576nt, >BTC17_nodC_1_B07_bif_bif158_AK3026T... at +/100.00%
+47	572nt, >BTC17_nodC_1_B12_bif_bif158_AK3031T... at +/100.00%
+48	581nt, >BTC17_nodC_1_C03_bar_barbA_AK3036T... at +/100.00%
+49	550nt, >BTC17_nodC_1_E06_bar_354_AK3074T... at +/100.00%
+50	578nt, >BTC17_nodC_1_F03_bif_163_AK3085T... at +/100.00%
+51	579nt, >BTC17_nodC_1_F04_bif_163_AK3086T... at +/100.00%
+52	550nt, >BTC17_nodC_1_F05_bif_163_AK3087T... at +/100.00%
+53	570nt, >BTC17_nodC_1_F06_bif_163_AK3088T... at +/100.00%
+54	580nt, >BTC17_nodC_1_F07_bif_102_AK3089T... at +/100.00%
+55	574nt, >BTC17_nodC_1_F08_bif_102_AK3090T... at +/100.00%
+56	570nt, >BTC17_nodC_1_F12_bif_102_AK3094T... at +/100.00%
+57	570nt, >BTC17_nodC_1_G01_bif_102_AK3096T... at +/100.00%
+58	551nt, >BTC17_nodC_1_G02_bif_102_AK3097T... at +/100.00%
+59	572nt, >BTC17_nodC_1_G04_mlm_105_AK3103T... at +/100.00%
+60	564nt, >BTC17_nodC_1_G08_mlm_105_AK3107T... at +/100.00%
+61	575nt, >BTC17_nodC_1_G10_mlm_105_AK3110T... at +/100.00%
+62	574nt, >BTC17_nodC_1_H06_mac_129_AK3121T... at +/100.00%
+63	561nt, >BTC17_nodC_2_A07_mdn_349_AK3134T... at +/100.00%
+64	582nt, >BTC17_nodC_2_A11_mdn_349_AK3139T... at +/100.00%
+65	556nt, >BTC17_nodC_2_B05_mdn_147_AK3145T... at +/100.00%
+66	587nt, >BTC17_nodC_2_B06_mdn_147_AK3146T... at +/100.00%
+67	594nt, >BTC17_nodC_2_B09_mdn_147_AK3150T... at +/100.00%
+68	572nt, >BTC17_nodC_2_D12_bar_380_AK3186T... at +/100.00%
+69	579nt, >AM1075Tmdn_AM7023.ab1... at +/100.00%
+70	576nt, >AM1242Tbar_AM7085.ab1... at +/100.00%
+71	576nt, >AM1869Tfuc_AM7007.ab1... at +/100.00%
+72	575nt, >AM1869Tfuc_AM7008.ab1... at +/100.00%
+73	576nt, >AM1869Tfuc_AM7009.ab1... at +/100.00%
+74	579nt, >AM1869Tfuc_AM7010.ab1... at +/100.00%
+75	581nt, >AM1869Tfuc_AM7011.ab1... at +/100.00%
+76	577nt, >AM1869Tfuc_AM7012.ab1... at +/100.00%
+77	579nt, >AM1921Tmac_AM7025.ab1... at +/100.00%
+78	578nt, >AM1921Tmac_AM7026.ab1... at +/100.00%
+79	582nt, >AM1939Tmdn_AM7048.ab1... at +/100.00%
+80	495nt, >AM1969Tmac_AM7053.ab1... at +/100.00%
+81	578nt, >AM1987Tmdn_AM7092.ab1... at +/100.00%
+82	579nt, >AM1987Tmdn_AM7093.ab1... at +/100.00%
+83	576nt, >AM1987Tmdn_AM7096.ab1... at +/100.00%
+84	585nt, >AM1005Tfuc_AM7103.ab1... at +/100.00%
+85	580nt, >AM1073Tmac_AM7098.ab1... at +/100.00%
+86	581nt, >AM11045Tfuc_AM7171.ab1... at +/100.00%
+87	597nt, >AM1001Tbar_AM7276.ab1... at +/100.00%
+88	597nt, >AM1149Tfuc_AM7239.ab1... at +/100.00%
+89	589nt, >AM1885Tfuc_AM7231.ab1... at +/100.00%
+90	587nt, >AM1885Tfuc_AM7233.ab1... at +/100.00%
+91	598nt, >AM1885Tfuc_AM7234.ab1... at +/100.00%
+92	598nt, >AM1889Tmac_AM7195.ab1... at +/100.00%
+93	580nt, >AM1889Tmac_AM7198.ab1... at +/100.00%
+94	575nt, >AM1006Tfuc_AM7320.ab1... at +/100.00%
+95	587nt, >AM1006Tfuc_AM7322.ab1... at +/100.00%
+96	588nt, >AM1012Tmdn_AM7308.ab1... at +/100.00%
+97	585nt, >AM1012Tmdn_AM7309.ab1... at +/100.00%
+98	605nt, >AM1012Tmdn_AM7310.ab1... at +/100.00%
+99	607nt, >AM1106Tmac_AM7298.ab1... *
+100	588nt, >AM1172Tmdn_AM7293.ab1... at +/100.00%
+101	606nt, >AM1886Tfuc_AM7301.ab1... at +/100.00%
+102	557nt, >AM1970Tmac_AM7334.ab1... at +/100.00%
+103	587nt, >AM1972Tmdn_AM7345.ab1... at +/100.00%
+104	531nt, >AM1005Tfuc_AM7108... at +/100.00%
+105	501nt, >AM1038Tfuc_AM7407... at +/100.00%
+106	535nt, >AM1058Tmac_AM7401... at +/100.00%
+107	543nt, >AM1059Tmdn_AM7166... at +/100.00%
+108	523nt, >AM1073Tmac_AM7097... at +/100.00%
+109	538nt, >AM11001Tmac_AM7125... at +/100.00%
+110	529nt, >AM11034Tmac_AM7420... at +/100.00%
+111	500nt, >AM1396Tmdn_AM7449... at +/100.00%
+112	527nt, >AM1421Tfuc_AM7184... at +/100.00%
+113	560nt, >AM1421Tfuc_AM7186... at +/100.00%
+114	536nt, >AM1433Tbar_AM7158... at +/100.00%
+115	557nt, >AM1870Tfuc_AM7443... at +/100.00%
+116	555nt, >AM1966Tfuc_AM7374... at +/100.00%
+>Cluster 2
+0	461nt, >2017-07-13_B07_bif_22E5-1_NodC... at +/100.00%
+1	369nt, >2017-07-13_F10_bif_38E2-4_NodC... at +/100.00%
+2	580nt, >2017-07-13_G07_bif_35E5-1_NodC... at +/100.00%
+3	581nt, >2017-07-13_G08_bif_35E5-2_NodC... at +/100.00%
+4	574nt, >2017-07-13_G10_bif_35E5-4_NodC... at +/100.00%
+5	572nt, >2017-07-13_G11_bif_35E5-5_NodC... at +/100.00%
+6	574nt, >2017-07-13_G12_bif_35E5-6_NodC... at +/100.00%
+7	547nt, >2017-07-13_H07_bif_40E2-1_NodC... at +/100.00%
+8	563nt, >2017-07-13_H10_bif_40E2-4_NodC... at +/100.00%
+9	534nt, >2017-07-13_H11_bif_40E2-5_NodC... at +/100.00%
+10	563nt, >2017-07-17_A10_mdn_61E5-4_NodC... at +/100.00%
+11	575nt, >2017-07-17_A12_mdn_61E5-6_NodC... at +/100.00%
+12	574nt, >2017-07-17_B09_mdn_62E5-3_NodC... at +/100.00%
+13	543nt, >2017-07-17_C03_mac_43E5-3_NodC... at +/100.00%
+14	576nt, >2017-07-17_C06_mac_43E5-6_NodC... at +/100.00%
+15	557nt, >2017-07-17_C09_mdn_63B5-3_NodC... at +/100.00%
+16	506nt, >2017-07-17_C10_mdn_63B5-4_NodC... at +/100.00%
+17	580nt, >2017-07-17_D01_mac_44B5-1_NodC... at +/100.00%
+18	575nt, >2017-07-17_D02_mac_44B5-2_NodC... at +/100.00%
+19	388nt, >2017-07-17_D04_mac_44B5-4_NodC... at +/100.00%
+20	556nt, >2017-07-17_D05_mac_44B5-5_NodC... at +/100.00%
+21	167nt, >2017-07-17_D08_mdn_64B2-2_NodC... at +/100.00%
+22	576nt, >2017-07-17_E01_mac_57B2-1_NodC... at +/100.00%
+23	557nt, >2017-07-17_E02_mac_57B2-2_NodC... at +/100.00%
+24	575nt, >2017-07-17_E04_mac_57B2-4_NodC... at +/100.00%
+25	283nt, >2017-07-17_E07_mdn_77E2-1_NodC... at +/100.00%
+26	366nt, >2017-07-17_E11_mdn_77E2-5_NodC... at +/100.00%
+27	438nt, >2017-07-17_E12_mdn_77E2-6_NodC... at +/100.00%
+28	575nt, >2017-07-17_F04_mac_58E5-4_NodC... at +/100.00%
+29	574nt, >2017-07-17_G05_mac_59E2-5_NodC... at +/100.00%
+30	578nt, >2017-07-17_G06_mac_59E2-6_NodC... at +/100.00%
+31	557nt, >2017-07-17_G08_mdn_79E5-2_NodC... at +/100.00%
+32	563nt, >2017-07-17_G11_mdn_79E5-5_NodC... at +/100.00%
+33	575nt, >2017-07-17_H01_mac_60E2-1_NodC... at +/100.00%
+34	575nt, >2017-07-17_H05_mac_60E2-5_NodC... at +/100.00%
+35	564nt, >2017-07-17_H06_mac_60E2-6_NodC... at +/100.00%
+36	566nt, >2017-07-17_H08_mdn_80B5-2_NodC... at +/100.00%
+37	575nt, >144_AG9003Tfuc_AG3015T.ab1... at +/100.00%
+38	574nt, >144_AG9017Tmac_AG3097T.ab1... at +/100.00%
+39	574nt, >144_AG9018Tmdn_AG3100T.ab1... at +/100.00%
+40	576nt, >144_AG9030Tmac_AG3161T.ab1... at +/100.00%
+41	574nt, >240_AG9002Tmdn_AG3011T.ab1... at +/100.00%
+42	575nt, >240_AG9020Tgra_AG3112T.ab1... at +/100.00%
+43	554nt, >240_AG9020Tgra_AG3116T.ab1... at +/100.00%
+44	575nt, >240_AG9022Tmac_AG3120T.ab1... at +/100.00%
+45	575nt, >240_AG9022Tmac_AG3122T.ab1... at +/100.00%
+46	577nt, >240_AG9027Tbar_AG3144T.ab1... at +/100.00%
+47	574nt, >240_AG9029Tmdn_AG3156T.ab1... at +/100.00%
+48	562nt, >240_AG9036Tbif_AG3192T.ab1... at +/100.00%
+49	575nt, >240_AG9039Tmac_AG3216T.ab1... at +/100.00%
+50	570nt, >72_AG9015Tgra_AG3084T.ab1... at +/100.00%
+51	575nt, >BTC17_nodC_1_A03_mac_bif181_AK3003T... at +/100.00%
+52	600nt, >BTC17_nodC_1_A12_mdn_mdon67_AK3018T... at +/100.00%
+53	561nt, >BTC17_nodC_1_B01_mdn_mdon67_AK3019T... at +/100.00%
+54	575nt, >BTC17_nodC_1_B02_mdn_mdon67_AK3020T... at +/100.00%
+55	572nt, >BTC17_nodC_1_B03_mdn_mdon67_AK3021T... at +/100.00%
+56	575nt, >BTC17_nodC_1_B04_mdn_mdon67_AK3022T... at +/100.00%
+57	575nt, >BTC17_nodC_1_B10_bif_bif158_AK3029T... at +/100.00%
+58	569nt, >BTC17_nodC_1_C01_bif_bif158_AK3034T... at +/100.00%
+59	570nt, >BTC17_nodC_1_C09_gra_graA_AK3042T... at +/100.00%
+60	579nt, >BTC17_nodC_1_C10_gra_GraA_AK3043T... at +/100.00%
+61	579nt, >BTC17_nodC_1_C11_gra_GraA_AK3044T... at +/100.00%
+62	559nt, >BTC17_nodC_1_C12_gra_GraA_AK3046T... at +/100.00%
+63	573nt, >BTC17_nodC_1_D01_gra_GraA_AK3047T... at +/100.00%
+64	573nt, >BTC17_nodC_1_D02_gra_GraA_AK3048T... at +/100.00%
+65	578nt, >BTC17_nodC_1_D03_gra_GraA_AK3050T... at +/100.00%
+66	574nt, >BTC17_nodC_1_D11_dub_dubA_AK3061T... at +/100.00%
+67	579nt, >BTC17_nodC_1_E11_bif_163_AK3079T... at +/100.00%
+68	570nt, >BTC17_nodC_1_G05_mlm_105_AK3104T... at +/100.00%
+69	570nt, >BTC17_nodC_1_G06_mlm_105_AK3105T... at +/100.00%
+70	581nt, >BTC17_nodC_1_G07_mlm_105_AK3106T... at +/100.00%
+71	564nt, >BTC17_nodC_1_H02_fuc_144_AK3116T... at +/100.00%
+72	575nt, >BTC17_nodC_1_H03_mac_129_AK3117T... at +/100.00%
+73	573nt, >BTC17_nodC_1_H05_mac_129_AK3119T... at +/100.00%
+74	562nt, >BTC17_nodC_1_H07_mac_129_AK3122T... at +/100.00%
+75	560nt, >BTC17_nodC_1_H09_mac_129_AK3124T... at +/100.00%
+76	550nt, >BTC17_nodC_1_H10_mac_129_AK3125T... at +/100.00%
+77	520nt, >BTC17_nodC_1_H11_mac_129_AK3126T... at +/100.00%
+78	570nt, >BTC17_nodC_1_H12_mac_129_AK3127T... at +/100.00%
+79	594nt, >BTC17_nodC_2_B10_mdn_147_AK3151T... at +/100.00%
+80	574nt, >BTC17_nodC_2_C11_gra_348_AK3170T... at +/100.00%
+81	587nt, >BTC17_nodC_2_D03_gra_348_AK3176T... at +/100.00%
+82	590nt, >BTC17_nodC_2_E07_mdn_376_AK3196T... at +/100.00%
+83	604nt, >BTC17_nodC_2_F05_fuc_191_AK3220T... at +/100.00%
+84	586nt, >BTC17_nodC_2_F06_fuc_191_AK3221T... at +/100.00%
+85	583nt, >BTC17_nodC_2_F08_gra_176_AK3229T... at +/100.00%
+86	594nt, >BTC17_nodC_2_F09_gra_176_AK3230T... at +/100.00%
+87	586nt, >BTC17_nodC_2_F11_gra_176_AK3232T... at +/100.00%
+88	575nt, >BTC17_nodC_2_H02_bar_145_AK3247T... at +/100.00%
+89	513nt, >BTC17_nodC_2_H05_bar_145_AK3250T... at +/100.00%
+90	521nt, >AM11017Tmac_AM7077.ab1... at +/100.00%
+91	575nt, >AM1441Tmac_AM7002.ab1... at +/100.00%
+92	434nt, >AM1987Tmdn_AM7095.ab1... at +/100.00%
+93	383nt, >AM1993Tbar_AM7015.ab1... at +/100.00%
+94	492nt, >AM1897Tbar_AM7135.ab1... at +/100.00%
+95	595nt, >AM1453Tfuc_AM7281.ab1... at +/100.00%
+96	596nt, >AM1453Tfuc_AM7282.ab1... at +/100.00%
+97	605nt, >AM1981Tfuc_AM7241.ab1... at +/100.00%
+98	603nt, >AM1006Tfuc_AM7318.ab1... at +/100.00%
+99	606nt, >AM1012Tmdn_AM7306.ab1... *
+100	598nt, >AM1886Tfuc_AM7304.ab1... at +/100.00%
+101	604nt, >AM1972Tmdn_AM7343.ab1... at +/100.00%
+102	555nt, >AM11045Tfuc_AM7172... at +/100.00%
+103	529nt, >AM1155Tmdn_AM7117... at +/100.00%
+104	534nt, >AM1428Tmdn_AM7431... at +/100.00%
+105	544nt, >AM1870Tfuc_AM7444... at +/100.00%
+106	545nt, >AM1892Tmdn_AM7414... at +/100.00%
+107	530nt, >AM1892Tmdn_AM7417... at +/100.00%
+108	543nt, >AM1897Tbar_AM7136... at +/100.00%
+109	529nt, >AM1897Tbar_AM7137... at +/100.00%
+110	471nt, >AM1906Tmac_AM7368... at +/100.00%
+111	546nt, >AM1966Tfuc_AM7375... at +/100.00%
+112	540nt, >AM1982Tfuc_AM7427... at +/100.00%
+113	498nt, >AM1982Tfuc_AM7429... at +/100.00%
+>Cluster 3
+0	569nt, >2017-07-13_B08_bif_22E5-2_NodC... at +/100.00%
+1	573nt, >2017-07-13_D04_barb_4E2-4_NodC... at +/100.00%
+2	440nt, >2017-07-13_G01_barb_19E2-1_NodC... at +/100.00%
+3	478nt, >2017-07-13_G03_barb_19E2-3_NodC... at +/100.00%
+4	573nt, >2017-07-13_G05_barb_19E2-5_NodC... at +/100.00%
+5	521nt, >2017-07-13_H01_barb_20B2-1_NodC... at +/100.00%
+6	530nt, >2017-07-17_A06_mac_41B5-6_NodC... at +/100.00%
+7	574nt, >2017-07-17_B10_mdn_62E5-4_NodC... at +/100.00%
+8	556nt, >2017-07-17_B11_mdn_62E5-5_NodC... at +/100.00%
+9	499nt, >2017-07-17_B12_mdn_62E5-6_NodC... at +/100.00%
+10	557nt, >2017-07-17_E06_mac_57B2-6_NodC... at +/100.00%
+11	562nt, >2017-07-17_F07_mdn_78B2-1_NodC... at +/100.00%
+12	543nt, >2017-07-17_F08_mdn_78B2-2_NodC... at +/100.00%
+13	566nt, >2017-07-17_F09_mdn_78B2-3_NodC... at +/100.00%
+14	575nt, >144_AG9023Tmdn_AG3123T.ab1... at +/100.00%
+15	574nt, >144_AG9032Tbif_AG3166T.ab1... at +/100.00%
+16	565nt, >240_AG9040Tmdn_AG3221T.ab1... at +/100.00%
+17	581nt, >BTC17_nodC_1_B06_bif_bif158_AK3025T... at +/100.00%
+18	573nt, >BTC17_nodC_1_B09_bif_bif158_AK3028T... at +/100.00%
+19	580nt, >BTC17_nodC_1_D06_bif_bifA_AK3054T... at +/100.00%
+20	573nt, >BTC17_nodC_1_D07_bif_bifA_AK3055T... at +/100.00%
+21	574nt, >BTC17_nodC_1_D08_bif_bifA_AK3056T... at +/100.00%
+22	563nt, >BTC17_nodC_1_E01_dub_dubA_AK3067T... at +/100.00%
+23	531nt, >BTC17_nodC_2_B04_mdn_147_AK3144T... at +/100.00%
+24	594nt, >BTC17_nodC_2_B07_mdn_147_AK3147T... at +/100.00%
+25	593nt, >BTC17_nodC_2_B08_mdn_147_AK3149T... at +/100.00%
+26	580nt, >AM1907Tmdn_AM7067.ab1... at +/100.00%
+27	586nt, >AM1057Tmac_AM7226.ab1... at +/100.00%
+28	602nt, >AM1203Tmdn_AM7207.ab1... at +/100.00%
+29	597nt, >AM1203Tmdn_AM7208.ab1... at +/100.00%
+30	585nt, >AM1203Tmdn_AM7209.ab1... at +/100.00%
+31	481nt, >AM1281Tmac_AM7261.ab1... at +/100.00%
+32	603nt, >AM1889Tmac_AM7194.ab1... at +/100.00%
+33	595nt, >AM1026Tmac_AM7315.ab1... at +/100.00%
+34	604nt, >AM1886Tfuc_AM7302.ab1... *
+35	525nt, >AM1058Tmac_AM7404... at +/100.00%
+36	548nt, >AM1058Tmac_AM7406... at +/100.00%
+37	488nt, >AM1097Tbar_AM7113... at +/100.00%
+38	551nt, >AM1117Tfuc_AM7187... at +/100.00%
+39	553nt, >AM1214Tfuc_AM7391... at +/100.00%
+40	529nt, >AM1870Tfuc_AM7447... at +/100.00%
+>Cluster 4
+0	526nt, >2017-07-13_H06_barb_20B2-6_NodC... at +/100.00%
+1	582nt, >2017-07-13_H08_bif_40E2-2_NodC... at +/100.00%
+2	578nt, >2017-07-17_C05_mac_43E5-5_NodC... at +/100.00%
+3	567nt, >2017-07-17_C08_mdn_63B5-2_NodC... at +/100.00%
+4	577nt, >2017-07-17_E05_mac_57B2-5_NodC... at +/100.00%
+5	584nt, >2017-07-17_H03_mac_60E2-3_NodC... at +/100.00%
+6	578nt, >144_AG9024Tgra_AG3134T.ab1... at +/100.00%
+7	578nt, >144_AG9029Tmdn_AG3152T.ab1... at +/100.00%
+8	579nt, >144_AG9029Tmdn_AG3153T.ab1... at +/100.00%
+9	578nt, >144_AG9029Tmdn_AG3155T.ab1... at +/100.00%
+10	579nt, >AM1021Tfuc_AM7058.ab1... at +/100.00%
+11	579nt, >AM1075Tmdn_AM7022.ab1... at +/100.00%
+12	580nt, >AM1389Tfuc_AM7036.ab1... at +/100.00%
+13	580nt, >AM1907Tmdn_AM7072.ab1... at +/100.00%
+14	525nt, >AM1969Tmac_AM7054.ab1... at +/100.00%
+15	580nt, >AM11045Tfuc_AM7170.ab1... at +/100.00%
+16	586nt, >AM11045Tfuc_AM7173.ab1... at +/100.00%
+17	580nt, >AM11045Tfuc_AM7174.ab1... at +/100.00%
+18	580nt, >AM1105Tmac_AM7145.ab1... at +/100.00%
+19	586nt, >AM1057Tmac_AM7223.ab1... at +/100.00%
+20	579nt, >AM1057Tmac_AM7227.ab1... at +/100.00%
+21	568nt, >AM11013Tfuc_AM7218.ab1... at +/100.00%
+22	586nt, >AM11013Tfuc_AM7220.ab1... at +/100.00%
+23	587nt, >AM11013Tfuc_AM7221.ab1... at +/100.00%
+24	579nt, >AM1213Tfuc_AM7200.ab1... at +/100.00%
+25	587nt, >AM1889Tmac_AM7196.ab1... at +/100.00%
+26	599nt, >AM1981Tfuc_AM7242.ab1... at +/100.00%
+27	601nt, >AM1981Tfuc_AM7243.ab1... at +/100.00%
+28	605nt, >AM1981Tfuc_AM7245.ab1... *
+29	580nt, >AM1981Tfuc_AM7246.ab1... at +/100.00%
+30	599nt, >AM1026Tmac_AM7312.ab1... at +/100.00%
+31	586nt, >AM1874Tmac_AM7350.ab1... at +/100.00%
+32	587nt, >AM1874Tmac_AM7351.ab1... at +/100.00%
+33	587nt, >AM1886Tfuc_AM7303.ab1... at +/100.00%
+34	579nt, >AM1988Tmdn_AM7327.ab1... at +/100.00%
+35	587nt, >AM1988Tmdn_AM7328.ab1... at +/100.00%
+36	572nt, >AM1876Tmdn_AM7467... at +/100.00%
+>Cluster 5
+0	448nt, >2017-07-13_B09_bif_22E5-3_NodC... at +/100.00%
+1	396nt, >2017-07-13_B12_bif_22E5-6_NodC... at +/100.00%
+2	557nt, >2017-07-13_F07_bif_38E2-1_NodC... at +/100.00%
+3	530nt, >2017-07-13_F09_bif_38E2-3_NodC... at +/100.00%
+4	536nt, >2017-07-13_F12_bif_38E2-6_NodC... at +/100.00%
+5	555nt, >2017-07-17_D07_mdn_64B2-1_NodC... at +/100.00%
+6	576nt, >2017-07-17_D09_mdn_64B2-3_NodC... *
+7	514nt, >2017-07-17_D10_mdn_64B2-4_NodC... at +/100.00%
+8	450nt, >2017-07-17_D11_mdn_64B2-5_NodC... at +/100.00%
+9	519nt, >2017-07-17_D12_mdn_64B2-6_NodC... at +/100.00%
+10	477nt, >2017-07-17_H07_mdn_80B5-1_NodC... at +/100.00%
+11	571nt, >2017-07-17_H09_mdn_80B5-3_NodC... at +/100.00%
+12	517nt, >2017-07-17_H11_mdn_80B5-5_NodC... at +/100.00%
+13	523nt, >2017-07-17_H12_mdn_80B5-6_NodC... at +/100.00%
+14	570nt, >72_AG9042Tmac_AG3232T.ab1... at +/100.00%
+15	573nt, >BTC17_nodC_1_C07_bar_barbA_AK3040T... at +/100.00%
+>Cluster 6
+0	524nt, >2017-07-13_A06_barb_1E2-6_NodC... at +/100.00%
+1	511nt, >2017-07-13_B05_barb_1E5-5_NodC... at +/100.00%
+2	530nt, >2017-07-13_E03_barb_17B2-3_NodC... at +/100.00%
+3	523nt, >2017-07-13_E05_barb_17B2-5_NodC... at +/100.00%
+4	485nt, >240_AG9004Tbar_AG3023T.ab1... at +/100.00%
+5	573nt, >240_AG9022Tmac_AG3121T.ab1... at +/100.00%
+6	573nt, >240_AG9034Tmdn_AG3182T.ab1... at +/100.00%
+7	575nt, >240_AG9043Tmac_AG3234T.ab1... *
+8	495nt, >AM1921Tmac_AM7027.ab1... at +/100.00%
+9	445nt, >AM1266Tmac_AM7473... at +/100.00%
+>Cluster 7
+0	574nt, >144_AG9031Tbar_AG3164T.ab1... at +/100.00%
+1	576nt, >240_AG9024Tgra_AG3129T.ab1... at +/100.00%
+2	574nt, >240_AG9031Tbar_AG3163T.ab1... at +/100.00%
+3	572nt, >72_AG9021Tgra_AG3117T.ab1... at +/100.00%
+4	594nt, >BTC17_nodC_2_A04_fuc_364_AK3131T... *
+5	578nt, >BTC17_nodC_2_B01_mdn_349_AK3141T... at +/100.00%
+6	594nt, >BTC17_nodC_2_C09_gra_348_AK3168T... at +/100.00%
+7	586nt, >BTC17_nodC_2_E05_mdn_376_AK3194T... at +/100.00%
+>Cluster 8
+0	575nt, >144_AG9028Tgra_AG3150T.ab1... at +/100.00%
+1	575nt, >240_AG9046Tbar_AG3252T.ab1... at +/100.00%
+2	571nt, >72_AG9028Tgra_AG3149T.ab1... at +/100.00%
+3	572nt, >72_AG9032Tbif_AG3172T.ab1... at +/100.00%
+4	579nt, >BTC17_nodC_1_C08_gra_graA_AK3041T... at +/100.00%
+5	586nt, >AM1001Tbar_AM7277.ab1... at +/100.00%
+6	605nt, >AM1203Tmdn_AM7206.ab1... *
+>Cluster 9
+0	574nt, >BTC17_nodC_1_G03_mlm_105_AK3102T... at +/100.00%
+1	575nt, >BTC17_nodC_1_G11_fuc_144_AK3112T... at +/100.00%
+2	580nt, >AM1385Tbar_AM7063.ab1... at +/100.00%
+3	599nt, >AM1213Tfuc_AM7201.ab1... at +/100.00%
+4	566nt, >AM1213Tfuc_AM7204.ab1... at +/100.00%
+5	605nt, >AM1988Tmdn_AM7325.ab1... *
+6	454nt, >AM1385Tbar_AM7062... at +/100.00%
+>Cluster 10
+0	589nt, >144_AG9024Tgra_AG3133T.ab1... at +/100.00%
+1	579nt, >AM1075Tmdn_AM7020.ab1... at +/100.00%
+2	598nt, >AM11001Tmac_AM7121.ab1... *
+3	591nt, >AM1421Tfuc_AM7183.ab1... at +/100.00%
+4	590nt, >AM1970Tmac_AM7330.ab1... at +/100.00%
+5	597nt, >AM1972Tmdn_AM7346.ab1... at +/100.00%
+6	580nt, >AM1102Tfuc_AM7477... at +/100.00%
+>Cluster 11
+0	582nt, >144_AG9015Tgra_AG3087T.ab1... at +/100.00%
+1	589nt, >144_AG9042Tmac_AG3233T.ab1... at +/100.00%
+2	591nt, >AM1073Tmac_AM7099.ab1... at +/100.00%
+3	590nt, >AM11045Tfuc_AM7169.ab1... at +/100.00%
+4	565nt, >AM1229Tfuc_AM7127.ab1... at +/100.00%
+5	591nt, >AM1229Tfuc_AM7129.ab1... at +/100.00%
+6	597nt, >AM11025Tbar_AM7213.ab1... *
+>Cluster 12
+0	573nt, >BTC17_nodC_1_F10_bif_102_AK3092T... at +/100.00%
+1	591nt, >AM1907Tmdn_AM7069.ab1... *
+2	591nt, >AM1422Tfuc_AM7359.ab1... at +/100.00%
+3	511nt, >AM1058Tmac_AM7405... at +/100.00%
+4	526nt, >AM1117Tfuc_AM7191... at +/100.00%
+5	425nt, >AM1124Tmdn_AM7381... at +/100.00%
+>Cluster 13
+0	586nt, >AM11025Tbar_AM7211.ab1... at +/100.00%
+1	586nt, >AM11025Tbar_AM7215.ab1... at +/100.00%
+2	587nt, >AM11025Tbar_AM7216.ab1... at +/100.00%
+3	589nt, >AM1203Tmdn_AM7205.ab1... *
+4	586nt, >AM1981Tfuc_AM7244.ab1... at +/100.00%
+5	588nt, >AM1972Tmdn_AM7342.ab1... at +/100.00%
+>Cluster 14
+0	570nt, >2017-07-13_E12_bif_37E5-6_NodC... at +/100.00%
+1	546nt, >2017-07-17_B06_mac_42E2-6_NodC... at +/100.00%
+2	579nt, >144_AG9009Tbar_AG3053T.ab1... at +/100.00%
+3	589nt, >AM1006Tfuc_AM7319.ab1... at +/100.00%
+4	604nt, >AM1874Tmac_AM7349.ab1... *
+>Cluster 15
+0	550nt, >2017-07-13_C04_barb_3B2-4_NodC... at +/100.00%
+1	574nt, >2017-07-17_A07_mdn_61E5-1_NodC... at +/100.00%
+2	573nt, >2017-07-17_A08_mdn_61E5-2_NodC... at +/100.00%
+3	575nt, >2017-07-17_A09_mdn_61E5-3_NodC... *
+4	555nt, >2017-07-17_A11_mdn_61E5-5_NodC... at +/100.00%
+>Cluster 16
+0	603nt, >AM1089Tmac_AM7265.ab1... *
+1	583nt, >AM1169Tmac_AM7273.ab1... at +/100.00%
+2	600nt, >AM1917Tfuc_AM7278.ab1... at +/100.00%
+3	601nt, >AM1917Tfuc_AM7279.ab1... at +/100.00%
+>Cluster 17
+0	591nt, >AM1107Tmdn_AM7140.ab1... at +/100.00%
+1	592nt, >AM1107Tmdn_AM7144.ab1... *
+2	572nt, >AM1155Tmdn_AM7115.ab1... at +/100.00%
+3	591nt, >AM1101Tfuc_AM7248.ab1... at +/100.00%
+>Cluster 18
+0	581nt, >2017-07-17_C04_mac_43E5-4_NodC... at +/100.00%
+1	584nt, >2017-07-17_G04_mac_59E2-4_NodC... at +/100.00%
+2	584nt, >144_AG9015Tgra_AG3083T.ab1... at +/100.00%
+3	586nt, >144_AG9015Tgra_AG3085T.ab1... *
+>Cluster 19
+0	565nt, >2017-07-17_B04_mac_42E2-4_NodC... at +/100.00%
+1	583nt, >2017-07-17_F06_mac_58E5-6_NodC... at +/100.00%
+2	584nt, >2017-07-17_G03_mac_59E2-3_NodC... *
+3	582nt, >BTC17_nodC_1_B11_bif_bif158_AK3030T... at +/100.00%
+>Cluster 20
+0	558nt, >BTC17_nodC_1_G09_mlm_105_AK3108T... at +/100.00%
+1	577nt, >AM1385Tbar_AM7064.ab1... at +/100.00%
+2	582nt, >AM1865Tbar_AM7177.ab1... *
+3	564nt, >AM1076Tmdn_AM7364.ab1... at +/100.00%
+>Cluster 21
+0	578nt, >AM1913Tbar_AM7037.ab1... at +/100.00%
+1	580nt, >AM1913Tbar_AM7038.ab1... *
+2	578nt, >AM1913Tbar_AM7040.ab1... at +/100.00%
+3	579nt, >AM1913Tbar_AM7042.ab1... at +/100.00%
+>Cluster 22
+0	589nt, >144_AG9043Tmac_AG3235T.ab1... *
+1	583nt, >144_AG9043Tmac_AG3236T.ab1... at +/100.00%
+2	584nt, >144_AG9048Tbif_AG3264T.ab1... at +/100.00%
+>Cluster 23
+0	588nt, >AM1101Tfuc_AM7252.ab1... *
+1	586nt, >AM1129Tbar_AM7254.ab1... at +/100.00%
+2	586nt, >AM1281Tmac_AM7263.ab1... at +/100.00%
+>Cluster 24
+0	576nt, >144_AG9009Tbar_AG3054T.ab1... at +/100.00%
+1	586nt, >AM1203Tmdn_AM7210.ab1... *
+2	470nt, >AM1021Tfuc_AM7056... at +/100.00%
+>Cluster 25
+0	545nt, >72_AG9017Tmac_AG3096T.ab1... at +/100.00%
+1	586nt, >AM1970Tmac_AM7331.ab1... *
+2	522nt, >AM11001Tmac_AM7124... at +/100.00%
+>Cluster 26
+0	579nt, >AM1993Tbar_AM7014.ab1... at +/100.00%
+1	580nt, >AM1993Tbar_AM7016.ab1... *
+2	579nt, >AM1993Tbar_AM7017.ab1... at +/100.00%
+>Cluster 27
+0	486nt, >2017-07-13_A08_bif_21B2-2_NodC... at +/100.00%
+1	556nt, >2017-07-13_G06_barb_19E2-6_NodC... at +/100.00%
+2	574nt, >BTC17_nodC_1_H08_mac_129_AK3123T... *
+>Cluster 28
+0	544nt, >2017-07-17_E09_mdn_77E2-3_NodC... at +/100.00%
+1	567nt, >240_AG9020Tgra_AG3113T.ab1... *
+2	423nt, >AM11017Tmac_AM7078.ab1... at +/100.00%
+>Cluster 29
+0	604nt, >AM1101Tfuc_AM7251.ab1... *
+1	603nt, >AM1106Tmac_AM7295.ab1... at +/100.00%
+>Cluster 30
+0	602nt, >AM11025Tbar_AM7214.ab1... *
+1	577nt, >AM1889Tmac_AM7193.ab1... at +/100.00%
+>Cluster 31
+0	581nt, >AM1026Tmac_AM7314.ab1... at +/100.00%
+1	597nt, >AM1874Tmac_AM7348.ab1... *
+>Cluster 32
+0	586nt, >2017-07-17_G02_mac_59E2-2_NodC... *
+1	584nt, >2017-07-17_H04_mac_60E2-4_NodC... at +/100.00%
+>Cluster 33
+0	575nt, >240_AG9022Tmac_AG3119T.ab1... at +/100.00%
+1	583nt, >72_AG9024Tgra_AG3132T.ab1... *
+>Cluster 34
+0	571nt, >BTC17_nodC_1_C05_bar_barbA_AK3038T... at +/100.00%
+1	579nt, >AM1889Tmac_AM7197.ab1... *
+>Cluster 35
+0	577nt, >AM1987Tmdn_AM7091.ab1... *
+1	577nt, >AM1987Tmdn_AM7094.ab1... at +/100.00%
+>Cluster 36
+0	524nt, >BTC17_nodC_1_D10_dub_dubA_AK3058T... at +/100.00%
+1	562nt, >BTC17_nodC_1_E04_dub_dubA_AK3072T... *
+>Cluster 37
+0	530nt, >240_AG9038Tbar_AG3213T.ab1... at +/100.00%
+1	561nt, >240_AG9039Tmac_AG3220T.ab1... *
+>Cluster 38
+0	540nt, >2017-07-13_A05_barb_1E2-5_NodC... at +/100.00%
+1	550nt, >2017-07-13_E09_bif_37E5-3_NodC... *
+>Cluster 39
+0	527nt, >240_AG9014Tbar_AG3082T.ab1... *
+1	363nt, >240_AG9030Tmac_AG3159T.ab1... at +/100.00%
+>Cluster 40
+0	418nt, >2017-07-17_D03_mac_44B5-3_NodC... at +/100.00%
+1	494nt, >AM1897Tbar_AM7138... *
+>Cluster 41
+0	608nt, >AM1874Tmac_AM7352.ab1... *
+>Cluster 42
+0	606nt, >AM1988Tmdn_AM7329.ab1... *
+>Cluster 43
+0	602nt, >AM1213Tfuc_AM7202.ab1... *
+>Cluster 44
+0	601nt, >AM1970Tmac_AM7333.ab1... *
+>Cluster 45
+0	595nt, >AM1453Tfuc_AM7280.ab1... *
+>Cluster 46
+0	594nt, >BTC17_nodC_2_D06_bar_380_AK3179T... *
+>Cluster 47
+0	593nt, >BTC17_nodC_2_D05_bar_380_AK3178T... *
+>Cluster 48
+0	592nt, >AM1939Tmdn_AM7046.ab1... *
+>Cluster 49
+0	591nt, >AM1865Tbar_AM7180.ab1... *
+>Cluster 50
+0	589nt, >AM1057Tmac_AM7228.ab1... *
+>Cluster 51
+0	588nt, >AM1281Tmac_AM7259.ab1... *
+>Cluster 52
+0	586nt, >BTC17_nodC_2_E04_mdn_376_AK3191T... *
+>Cluster 53
+0	586nt, >AM1865Tbar_AM7175.ab1... *
+>Cluster 54
+0	582nt, >144_AG9051Tfuc_AG3280T.ab1... *
+>Cluster 55
+0	582nt, >240_AG9002Tmdn_AG3009T.ab1... *
+>Cluster 56
+0	582nt, >BTC17_nodC_1_D12_dub_dubA_AK3062T... *
+>Cluster 57
+0	582nt, >AM1097Tbar_AM7109.ab1... *
+>Cluster 58
+0	581nt, >144_AG9004Tbar_AG3022T.ab1... *
+>Cluster 59
+0	581nt, >BTC17_nodC_1_E03_dub_dubA_AK3071T... *
+>Cluster 60
+0	579nt, >240_AG9032Tbif_AG3173T.ab1... *
+>Cluster 61
+0	579nt, >AM1075Tmdn_AM7019.ab1... *
+>Cluster 62
+0	578nt, >240_AG9054Twil_AG3301T.ab1... *
+>Cluster 63
+0	578nt, >AM1993Tbar_AM7013.ab1... *
+>Cluster 64
+0	577nt, >2017-07-13_A02_barb_1E2-2_NodC... *
+>Cluster 65
+0	576nt, >72_AG9011Tmac_AG3062T.ab1... *
+>Cluster 66
+0	575nt, >2017-07-17_A04_mac_41B5-4_NodC... *
+>Cluster 67
+0	575nt, >144_AG9014Tbar_AG3078T.ab1... *
+>Cluster 68
+0	575nt, >BTC17_nodC_1_F11_bif_102_AK3093T... *
+>Cluster 69
+0	574nt, >BTC17_nodC_1_A10_will_will69_AK3016T... *
+>Cluster 70
+0	571nt, >AM1102Tfuc_AM7478... *
+>Cluster 71
+0	569nt, >BTC17_nodC_1_F01_bif_163_AK3082T... *
+>Cluster 72
+0	563nt, >2017-07-13_C05_barb_3B2-5_NodC... *
+>Cluster 73
+0	562nt, >BTC17_nodC_1_E02_dub_dubA_AK3070T... *
+>Cluster 74
+0	556nt, >AM1214Tfuc_AM7389... *
+>Cluster 75
+0	548nt, >2017-07-17_C12_mdn_63B5-6_NodC... *
+>Cluster 76
+0	543nt, >AM1421Tfuc_AM7185... *
+>Cluster 77
+0	543nt, >AM1972Tmdn_AM7344... *
+>Cluster 78
+0	539nt, >2017-07-13_H03_barb_20B2-3_NodC... *
+>Cluster 79
+0	539nt, >AM1897Tbar_AM7134... *
+>Cluster 80
+0	538nt, >BTC17_nodC_2_F07_gra_176_AK3225T... *
+>Cluster 81
+0	533nt, >240_AG9039Tmac_AG3215T.ab1... *
+>Cluster 82
+0	526nt, >AM1876Tmdn_AM7468... *
+>Cluster 83
+0	519nt, >BTC17_nodC_2_B11_mdn_147_AK3152T... *
+>Cluster 84
+0	508nt, >2017-07-17_A05_mac_41B5-5_NodC... *
+>Cluster 85
+0	505nt, >AM1220Tmdn_AM7400... *
+>Cluster 86
+0	500nt, >AM1993Tbar_AM7018.ab1... *
+>Cluster 87
+0	490nt, >AM11001Tmac_AM7122.ab1... *
+>Cluster 88
+0	488nt, >BTC17_nodC_1_A11_mdn_mdon67_AK3017T... *
+>Cluster 89
+0	488nt, >BTC17_nodC_1_G12_fuc_144_AK3113T... *
+>Cluster 90
+0	488nt, >AM1966Tfuc_AM7377... *
+>Cluster 91
+0	483nt, >AM1876Tmdn_AM7470... *
+>Cluster 92
+0	479nt, >2017-07-17_C01_mac_43E5-1_NodC... *
+>Cluster 93
+0	474nt, >AM1124Tmdn_AM7382... *
+>Cluster 94
+0	473nt, >2017-07-17_H10_mdn_80B5-4_NodC... *
+>Cluster 95
+0	472nt, >BTC17_nodC_2_C10_gra_348_AK3169T... *
+>Cluster 96
+0	466nt, >AM1058Tmac_AM7402... *
+>Cluster 97
+0	465nt, >240_AG9032Tbif_AG3170T.ab1... *
+>Cluster 98
+0	459nt, >AM11013Tfuc_AM7219.ab1... *
+>Cluster 99
+0	449nt, >BTC17_nodC_2_A06_fuc_364_AK3133T... *
+>Cluster 100
+0	440nt, >AM1876Tmdn_AM7469... *
+>Cluster 101
+0	436nt, >2017-07-17_F10_mdn_78B2-4_NodC... *
+>Cluster 102
+0	425nt, >2017-07-13_C02_barb_3B2-2_NodC... *
+>Cluster 103
+0	413nt, >240_AG9002Tmdn_AG3014T.ab1... *
+>Cluster 104
+0	411nt, >2017-07-13_C08_bif_23B5-2_NodC... *
+>Cluster 105
+0	404nt, >2017-07-13_C01_barb_3B2-1_NodC... *
+>Cluster 106
+0	383nt, >240_AG9036Tbif_AG3191T.ab1... *
+>Cluster 107
+0	371nt, >2017-07-13_D08_bif_24E5-2_NodC... *
+>Cluster 108
+0	344nt, >2017-07-17_B05_mac_42E2-5_NodC... *
+>Cluster 109
+0	339nt, >AM1073Tmac_AM7100.ab1... *
+>Cluster 110
+0	300nt, >72_AG9030Tmac_AG3162T.ab1... *
+>Cluster 111
+0	238nt, >72_AG9051Tfuc_AG3283T.ab1... *
